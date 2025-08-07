@@ -1,0 +1,107 @@
+[
+    {
+    "name": "Air Jordan 5 Grape (2025)",
+    "price_usd": 215,
+    "source": "https://sneakerbardetroit.com/air-jordan-5-grape-2025-release-date/"
+    }
+    {
+    "name": "Air Jordan 14 Ferrari (2025)",
+    "price_usd": 215,
+    "source": "https://sneakerbardetroit.com/air-jordan-14-ferrari-2025-releases-date/"
+    }
+    {
+    "name": "Air Jordan 11 Low Igloo",
+    "price_usd": 195,
+    "source": "https://sneakernews.com/2025/06/06/air-jordan-11-low-igloo-store-list/"
+    }
+    {
+    "name": "Air Jordan 3 Pure Money (2025)",
+    "price_usd": 210,
+    "source": "https://sneakernews.com/2025/06/10/air-jordan-3-pure-money/"
+    }
+    {
+    "name": "Air Jordan 12 Grape (2025)",
+    "price_usd": null,
+    "source": "No direct retail price information for the Air Jordan 12 Grape (2025) was found in the provided search results."
+    }
+    {
+    "name": "Nike Air Max 95 Bright Mandarin",
+    "price_usd": 190,
+    "source": "https://www.nike.com/launch/t/air-max-95-og-bright-mandarin"
+    }
+    {
+    "name": "Nike x Worksout Air Max 95",
+    "price_usd": 200,
+    "source": "https://hypebeast.com/2025/5/worksout-nike-air-max-95-uniform-wo1999-001-release-info"
+    }
+    {
+    "name": "Nike Air Max Uptempo Bulls",
+    "price_usd": 160,
+    "source": "https://www.sneakerfiles.com/nike-air-max-uptempo-95-chicago-2025/"
+    }
+    {
+    "name": "Salehe Bembury Crocs Pollex Clog Tree Camo",
+    "price_usd": 85,
+    "source": "https://sneakerbardetroit.com/salehe-bembury-crocs-pollex-clog-tree-camo/"
+    }
+    {
+    "name": "New Balance 992 Sweet Caramel",
+    "price_usd": 200,
+    "source": "https://hypebeast.com/2025/5/new-balance-made-in-usa-992-caramel-cashew-release-info"
+    }
+    {
+    "name": "New Balance 992 Raw Cashew",
+    "price_usd": 199.99,
+    "source": "https://www.newbalance.com/pd/made-in-usa-992/U992V1-48827.html"
+    }
+    {
+    "name": "New Balance 990v6 Light Mushroom",
+    "price_usd": 199.99,
+    "source": "https://www.newbalance.com/pd/made-in-usa-990v6/U990V6-48829.html"
+    }
+    {
+    "name": "Isabel Marant Converse Chuck 70 Wedge Sneakers",
+    "price_usd": 190,
+    "source": "https://us.isabelmarant.com/products/bk0088fac1e02ovirb-chuck-wedge-rd-sneakers-vanilla-ice-red-black"
+    }
+    {
+    "name": "Jordan Luka 4 New Look",
+    "price_usd": 130,
+    "source": "https://sneakerbardetroit.com/jordan-luka-bloodline-pack-2025/"
+    }
+    {
+    "name": "Jordan Luka .77 New Look",
+    "price_usd": 100,
+    "source": "https://hypebeast.com/2025/3/jordan-luka-77-doncic-lifestyle-sneaker-announcement"
+    }
+    {
+    "name": "Nike Air Max Sunder Blue Camo",
+    "price_usd": 180,
+    "source": "https://hypebeast.com/2025/5/nike-air-max-sunder-blue-camo-ib6863-400-release-info"
+    }
+    {
+    "name": "New Balance 2002R Exclusive",
+    "price_usd": 130,
+    "source": "https://www.soleretriever.com/sneaker-release-dates/new-balance/new-balance-2002r"
+    }
+    {
+    "name": "New Balance 9060 Exclusive",
+    "price_usd": 149.99,
+    "source": "https://www.newbalance.com/pd/9060/U9060V1-49464-PMG-NA.html"
+    }
+    {
+    "name": "MLB Air Max 720 City Connect",
+    "price_usd": 160,
+    "source": "https://sneakerfiles.com/nike-air-max-270-mlb-city-connect-pack/"
+    }
+    {
+    "name": "PUMA LaFrance Airbrush",
+    "price_usd": 110,
+    "source": "https://sneakerbardetroit.com/puma-lafrance-airbrush-311700-01/"
+    }
+    {
+    "name": "Reebok Pump Omni Zone II French Open",
+    "price_usd": 160,
+    "source": "https://www.nicekicks.com/pump-omni-zone-ii-retro-french-open-100209103/"
+    }
+]

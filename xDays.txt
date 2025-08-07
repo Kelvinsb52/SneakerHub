@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Air Jordan 5 Grape (2025)",
+    "release_date": "June 21, 2025",
+    "url": "https://sneakerfits.com/air-jordan-release-dates-june-2025/",
+    "brand": "Nike",
+    "price": "$210",
+    "notes": "Color: White/New Emerald/Grape Ice/Black"
+  },
+  {
+    "name": "Air Jordan 14 Ferrari (2025)",
+    "release_date": "June 14, 2025",
+    "url": "https://sneakerfits.com/air-jordan-release-dates-june-2025/",
+    "brand": "Nike",
+    "price": "$215",
+    "notes": "Color: Challenge Red/Vibrant Yellow/Anthracite/Black"
+  },
+  {
+    "name": "Air Jordan 11 Low Igloo",
+    "release_date": "June 7, 2025",
+    "url": "https://sneakerfits.com/air-jordan-release-dates-june-2025/",
+    "brand": "Nike",
+    "price": null,
+    "notes": "Color: White/Igloo"
+  },
+  {
+    "name": "Air Jordan 3 Pure Money (2025)",
+    "release_date": "June 26, 2025",
+    "url": "https://sneakerfits.com/how-to-style-the-air-jordan-3-pure-money-2025-with-matching-outfits/",
+    "brand": "Nike",
+    "price": null,
+    "notes": "Includes apparel and styling options"
+  },
+  {
+    "name": "Air Jordan 12 Grape (2025)",
+    "release_date": "June 19, 2025",
+    "url": "https://sneakerfits.com/air-jordan-12-grape-2025-x-jordan-flight-pro-snapback-hat/",
+    "brand": "Nike",
+    "price": null,
+    "notes": "Comes with Jordan Flight Pro Snapback Hat in Washed Teal"
+  },
+  {
+    "name": "Nike Air Max 95 Bright Mandarin",
+    "release_date": "June 6, 2025",
+    "url": "https://sneakernews.com/2025/06/01/sneaker-releases-june-1-june-7-2025/",
+    "brand": "Nike",
+    "price": null,
+    "notes": "Noted as crown jewel of the week"
+  },
+  {
+    "name": "Nike x Worksout Air Max 95",
+    "release_date": "June 5, 2025",
+    "url": "https://sneakernews.com/2025/06/01/sneaker-releases-june-1-june-7-2025/",
+    "brand": "Nike",
+    "price": null,
+    "notes": "Global/wide launch after Korean exclusive"
+  },
+  {
+    "name": "Nike Air Max Uptempo Bulls",
+    "release_date": "June 5, 2025",
+    "url": "https://sneakernews.com/2025/06/01/sneaker-releases-june-1-june-7-2025/",
+    "brand": "Nike",
+    "price": null,
+    "notes": "Notable retro silhouette release"
+  },
+  {
+    "name": "Salehe Bembury Crocs Pollex Clog Tree Camo",
+    "release_date": "June 5, 2025",
+    "url": "https://sneakernews.com/2025/06/01/sneaker-releases-june-1-june-7-2025/",
+    "brand": "Crocs",
+    "price": null,
+    "notes": "Once-exclusive release"
+  },
+  {
+    "name": "New Balance 992 Sweet Caramel",
+    "release_date": "June 5, 2025",
+    "url": "https://sneakernews.com/2025/06/01/sneaker-releases-june-1-june-7-2025/",
+    "brand": "New Balance",
+    "price": null,
+    "notes": "Part of Made In USA Summer 2025 collection"
+  },
+  {
+    "name": "New Balance 992 Raw Cashew",
+    "release_date": "June 5, 2025",
+    "url": "https://sneakernews.com/2025/06/01/sneaker-releases-june-1-june-7-2025/",
+    "brand": "New Balance",
+    "price": null,
+    "notes": "Part of Made In USA Summer 2025 collection"
+  },
+  {
+    "name": "New Balance 990v6 Light Mushroom",
+    "release_date": "June 5, 2025",
+    "url": "https://sneakernews.com/2025/06/01/sneaker-releases-june-1-june-7-2025/",
+    "brand": "New Balance",
+    "price": null,
+    "notes": "Part of Made In USA Summer 2025 collection"
+  },
+  {
+    "name": "Isabel Marant Converse Sneaker Wedges",
+    "release_date": "June 5, 2025",
+    "url": "https://sneakernews.com/2025/06/01/sneaker-releases-june-1-june-7-2025/",
+    "brand": "Converse",
+    "price": null,
+    "notes": "Part of Isabel Marant Converse capsule"
+  },
+  {
+    "name": "Jordan Luka 4 New Look",
+    "release_date": "June 5, 2025",
+    "url": "https://sneakernews.com/2025/06/01/sneaker-releases-june-1-june-7-2025/",
+    "brand": "Jordan",
+    "price": null,
+    "notes": "New look release"
+  },
+  {
+    "name": "Jordan Luka .77 New Look",
+    "release_date": "June 5, 2025",
+    "url": "https://sneakernews.com/2025/06/01/sneaker-releases-june-1-june-7-2025/",
+    "brand": "Jordan",
+    "price": null,
+    "notes": "New look release"
+  },
+  {
+    "name": "Nike Air Max Sunder Blue Camo",
+    "release_date": "June 5, 2025",
+    "url": "https://sneakernews.com/2025/06/01/sneaker-releases-june-1-june-7-2025/",
+    "brand": "Nike",
+    "price": null,
+    "notes": "Available on SNKRS"
+  },
+  {
+    "name": "New Balance 2002R Exclusive",
+    "release_date": "June 5, 2025",
+    "url": "https://sneakernews.com/2025/06/01/sneaker-releases-june-1-june-7-2025/",
+    "brand": "New Balance",
+    "price": null,
+    "notes": "Foot Locker exclusive"
+  },
+  {
+    "name": "New Balance 9060 Exclusive",
+    "release_date": "June 5, 2025",
+    "url": "https://sneakernews.com/2025/06/01/sneaker-releases-june-1-june-7-2025/",
+    "brand": "New Balance",
+    "price": null,
+    "notes": "Foot Locker exclusive"
+  },
+  {
+    "name": "MLB Air Max 720 City Connect",
+    "release_date": "June 6, 2025",
+    "url": "https://sneakernews.com/2025/06/01/sneaker-releases-june-1-june-7-2025/",
+    "brand": "Nike",
+    "price": null,
+    "notes": "About a dozen colorways linked to major clubs"
+  },
+  {
+    "name": "PUMA LaFrance Airbrush",
+    "release_date": "June 6, 2025",
+    "url": "https://sneakernews.com/2025/06/01/sneaker-releases-june-1-june-7-2025/",
+    "brand": "PUMA",
+    "price": null,
+    "notes": "LaMelo Ball's lifestyle shoe new version"
+  },
+  {
+    "name": "Reebok Pump Omni Zone II French Open",
+    "release_date": "June 6, 2025",
+    "url": "https://sneakernews.com/2025/06/01/sneaker-releases-june-1-june-7-2025/",
+    "brand": "Reebok",
+    "price": null,
+    "notes": "Continuation of crossover series"
+  }
+]
