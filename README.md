@@ -1,8 +1,25 @@
-This is a real personal project for me as I tried to create something that I wish I had when I was in high school.
-This is a business management platform specifically designed for resellers. Here are the key features:
+✨ Introduction
 
-Dashboard Overview - Welcome screen with business metrics
-Inventory Management - Add items, track stock, monitor sales
-Financial Tracking - Revenue, expenses, profit calculations
-AI Chat System - Real-time business assistance
-Responsive Design - Mobile-first approach with elegant typography
+Lux is a business management platform built for resellers, inspired by tools I wished I had back in high school. It helps small resellers track inventory, finances, and sales, all while providing AI-powered business assistance in a clean, desktop-first design.
+
+⚙️ Tech Stack
+
+Frontend: Next.js, React, TypeScript, TailwindCSS
+
+Backend: Appwrite
+
+AI Integration: OpenAI + LangChain for chatbot insights
+
+Auth & Sessions: Appwrite
+
+🔋 Features
+
+Dashboard Overview – Key business metrics at a glance
+
+Inventory Management – Add products, track stock, and sales
+
+Financial Tracking – Revenue, expenses, and profit reports
+
+AI Chat System – Real-time reseller assistance with insights
+
+Responsive Design – Optimized for desktop
