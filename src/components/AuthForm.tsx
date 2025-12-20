@@ -61,12 +61,10 @@ const AuthForm = ({ type }: { type: string }) => {
           };
     
           await signUp(userData);
-          router.push('/'); 
         }
     
         if (type === 'sign-in') {
-          await signIn({ email: data.email, password: data.password }); 
-          router.push('/');
+          await signIn({ email: data.email, password: data.password });
         }
       } catch (error) {
         console.error("Auth failed:", error);

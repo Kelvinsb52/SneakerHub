@@ -20,7 +20,6 @@ const Home = async () => {
             <div className="flex justify-center items-center gap-4 h-[200px]">
                 <Inventory />
                 <Finances />
-                <AddItem />
             </div>
             <ChatBox/>
         </div>

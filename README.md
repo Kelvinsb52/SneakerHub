@@ -1,36 +1,226 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 Lux MVP - The Reseller's Friend
 
-## Getting Started
+**Lux** is a comprehensive business management platform designed specifically for resellers, helping them track inventory, manage finances, and make informed business decisions with AI-powered insights.
 
-First, run the development server:
+## ✨ Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+### 🏪 **Inventory Management**
+
+- Track total items in stock
+- Monitor sold items
+- Calculate inventory value
+- Add new items with pricing information
+
+### 💰 **Financial Dashboard**
+
+- Real-time revenue tracking
+- Expense management
+- Profit calculation
+- Interactive financial charts and analytics
+- Visual representation of business performance
+
+### 🤖 **AI-Powered Chat Assistant**
+
+- Built-in chat interface for business queries
+- Powered by OpenAI GPT-3.5-turbo
+- Stream-based responses for real-time interaction
+- Context-aware conversations with memory
+
+### 🔐 **User Authentication**
+
+- Secure sign-up and sign-in system
+- User session management
+- Protected routes and data access
+
+## 🛠️ Tech Stack
+
+### **Frontend**
+
+- **Next.js 15** - React framework with App Router
+- **React 19** - Latest React with modern features
+- **TypeScript** - Type-safe development
+- **Tailwind CSS** - Utility-first CSS framework
+- **Chart.js** - Interactive data visualization
+- **React Hook Form** - Form management with validation
+
+### **Backend & Services**
+
+- **Appwrite** - Backend-as-a-Service for authentication and database
+- **OpenAI API** - AI-powered chat functionality
+- **LangChain** - LLM integration and conversation management
+
+### **UI Components**
+
+- **Radix UI** - Accessible component primitives
+- **Lucide React** - Beautiful icon library
+- **Custom Design System** - Elegant typography with Italiana and Julius Sans One fonts
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js 18+
+- npm, yarn, pnpm, or bun
+- Appwrite account and project
+- OpenAI API key
+
+### Installation
+
+1. **Clone the repository**
+
+   ```bash
+   git clone <your-repo-url>
+   cd lux-mvp
+   ```
+
+2. **Install dependencies**
+
+   ```bash
+   npm install
+   # or
+   yarn install
+   # or
+   pnpm install
+   ```
+
+3. **Environment Setup**
+   Create a `.env.local` file in the root directory:
+
+   ```env
+   NEXT_PUBLIC_APPWRITE_ENDPOINT=your_appwrite_endpoint
+   NEXT_PUBLIC_APPWRITE_PROJECT_ID=your_project_id
+   NEXT_APPWRITE_KEY=your_admin_key
+   OPENAI_API_KEY=your_openai_api_key
+   ```
+
+4. **Run the development server**
+
+   ```bash
+   npm run dev
+   # or
+   yarn dev
+   # or
+   pnpm dev
+   ```
+
+5. **Open your browser**
+   Navigate to [http://localhost:3000](http://localhost:3000)
+
+## 📁 Project Structure
+
+```
+lux-mvp/
+├── src/
+│   ├── app/                    # Next.js App Router
+│   │   ├── (auth)/            # Authentication routes
+│   │   ├── (root)/            # Protected main routes
+│   │   └── api/               # API endpoints
+│   ├── components/             # Reusable UI components
+│   │   ├── ui/                # Base UI components
+│   │   └── ...                # Feature components
+│   ├── context/                # React context providers
+│   ├── hooks/                  # Custom React hooks
+│   └── lib/                    # Utility functions and configurations
+├── public/                     # Static assets
+├── types/                      # TypeScript type definitions
+└── lib/                        # Core library functions
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🔧 Available Scripts
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- `npm run dev` - Start development server with Turbopack
+- `npm run build` - Build for production
+- `npm run start` - Start production server
+- `npm run lint` - Run ESLint
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🎯 Core Features Breakdown
 
-## Learn More
+### **Dashboard Overview**
 
-To learn more about Next.js, take a look at the following resources:
+The main dashboard provides a comprehensive view of your business:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Welcome header with personalized greeting
+- Financial performance charts
+- Quick access to inventory and financial summaries
+- AI chat assistant for business insights
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### **Inventory Tracking**
 
-## Deploy on Vercel
+- Add new items with name and purchase price
+- Track total inventory count
+- Monitor sold items
+- Calculate current inventory value
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### **Financial Management**
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Revenue tracking and analysis
+- Expense monitoring
+- Profit calculation
+- Interactive line charts for trend analysis
+
+### **AI Chat System**
+
+- Real-time streaming responses
+- Context-aware conversations
+- Business-focused assistance
+- Secure API integration
+
+## 🔒 Security Features
+
+- **Authentication**: Secure user sessions with Appwrite
+- **Protected Routes**: Role-based access control
+- **API Security**: Server-side validation and sanitization
+- **Session Management**: Secure cookie handling
+
+## 🎨 Design Philosophy
+
+Lux features a sophisticated design system with:
+
+- **Typography**: Elegant font combinations (Italiana, Julius Sans One, Inter, IBM Plex Serif)
+- **Color Scheme**: Professional and modern aesthetic
+- **Responsive Design**: Mobile-first approach with desktop optimization
+- **Accessibility**: WCAG compliant components
+
+## 🚧 Development Status
+
+This is an MVP (Minimum Viable Product) with core functionality implemented:
+
+- ✅ User authentication system
+- ✅ Basic inventory management
+- ✅ Financial dashboard
+- ✅ AI chat integration
+- ✅ Responsive UI components
+
+**Planned Enhancements:**
+
+- Advanced inventory analytics
+- Multi-currency support
+- Export and reporting features
+- Mobile app development
+- Advanced AI business insights
+
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🆘 Support
+
+For support and questions:
+
+- Create an issue in the repository
+- Contact the development team
+- Check the documentation
+
+---
+
+**Built with ❤️ for resellers who want to scale their business intelligently.**
+
+_Lux - The Reseller's Friend_

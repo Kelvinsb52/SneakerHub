@@ -2,8 +2,7 @@
 
 import { useEffect, useMemo, useState } from "react";
 import { useRouter, usePathname } from 'next/navigation'
-import { signUp } from "@/lib/actions/user.server.actions";
-import {  signIn, getLoggedInUser, logoutAccount} from "@/lib/actions/user.client.actions";
+import { signUp, signIn, getLoggedInUser, logoutAccount } from "@/lib/actions/user.server.actions";
 import { UserActionsContext, UserContext } from "./userContext";
 import { signInProps, SignUpParams, User } from "@/types";
 

@@ -14,9 +14,17 @@ export const useInventoryForm = () => {
       [key]: value,
     }));
   };
+
+  const resetForm = () => {
+    setForm({
+      itemName: "",
+      paidPrice: "",
+    });
+  };
  
   return {
     form,
     onFormChange,
+    resetForm,
   };
 };
