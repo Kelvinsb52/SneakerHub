@@ -21,34 +21,6 @@ Financial Tracking – Revenue, expenses, and profit reports
 AI Chat System – Real-time reseller assistance with insights
 
 Responsive Design – Optimized for desktop
-# 🚀 Lux MVP - The Reseller's Friend
-
-**Lux** is a comprehensive business management platform designed specifically for resellers, helping them track inventory, manage finances, and make informed business decisions with AI-powered insights.
-
-## 🛠️ Tech Stack
-
-### **Frontend**
-
-- **Next.js 15** - React framework with App Router
-- **React 19** - Latest React with modern features
-- **TypeScript** - Type-safe development
-- **Tailwind CSS** - Utility-first CSS framework
-- **Chart.js** - Interactive data visualization
-- **React Hook Form** - Form management with validation
-
-### **Backend & Services**
-
-- **Appwrite** - Backend-as-a-Service for authentication and database
-- **OpenAI API** - AI-powered chat functionality
-- **LangChain** - LLM integration and conversation management
-
-### **UI Components**
-
-- **Radix UI** - Accessible component primitives
-- **Lucide React** - Beautiful icon library
-- **Custom Design System** - Elegant typography with Italiana and Julius Sans One fonts
-
-## 🚀 Getting Started
 
 ### Prerequisites
 
