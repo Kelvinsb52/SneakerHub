@@ -1,4 +1,3 @@
-git
 Lux is a business management platform built for resellers, inspired by tools I wished I had back in high school. It helps small resellers track inventory, finances, and sales, all while providing AI-powered business assistance in a clean, desktop-first design.
 
 ⚙️ Tech Stack
@@ -25,36 +24,6 @@ Responsive Design – Optimized for desktop
 # 🚀 Lux MVP - The Reseller's Friend
 
 **Lux** is a comprehensive business management platform designed specifically for resellers, helping them track inventory, manage finances, and make informed business decisions with AI-powered insights.
-
-## ✨ Features
-
-### 🏪 **Inventory Management**
-
-- Track total items in stock
-- Monitor sold items
-- Calculate inventory value
-- Add new items with pricing information
-
-### 💰 **Financial Dashboard**
-
-- Real-time revenue tracking
-- Expense management
-- Profit calculation
-- Interactive financial charts and analytics
-- Visual representation of business performance
-
-### 🤖 **AI-Powered Chat Assistant**
-
-- Built-in chat interface for business queries
-- Powered by OpenAI GPT-3.5-turbo
-- Stream-based responses for real-time interaction
-- Context-aware conversations with memory
-
-### 🔐 **User Authentication**
-
-- Secure sign-up and sign-in system
-- User session management
-- Protected routes and data access
 
 ## 🛠️ Tech Stack
 
@@ -157,41 +126,3 @@ lux-mvp/
 - `npm run start` - Start production server
 - `npm run lint` - Run ESLint
 
-## 🎯 Core Features Breakdown
-
-### **Dashboard Overview**
-
-The main dashboard provides a comprehensive view of your business:
-
-- Welcome header with personalized greeting
-- Financial performance charts
-- Quick access to inventory and financial summaries
-- AI chat assistant for business insights
-
-### **Inventory Tracking**
-
-- Add new items with name and purchase price
-- Track total inventory count
-- Monitor sold items
-- Calculate current inventory value
-
-### **Financial Management**
-
-- Revenue tracking and analysis
-- Expense monitoring
-- Profit calculation
-- Interactive line charts for trend analysis
-
-### **AI Chat System**
-
-- Real-time streaming responses
-- Context-aware conversations
-- Business-focused assistance
-- Secure API integration
-
-## 🔒 Security Features
-
-- **Authentication**: Secure user sessions with Appwrite
-- **Protected Routes**: Role-based access control
-- **API Security**: Server-side validation and sanitization
-- **Session Management**: Secure cookie handling
