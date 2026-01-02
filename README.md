@@ -1,5 +1,12 @@
 Lux is a business management platform built for resellers, inspired by tools I wished I had back in high school. It helps small resellers track inventory, finances, and sales, all while providing AI-powered business assistance in a clean, desktop-first design.
 
+
+
+https://github.com/user-attachments/assets/6c0490e8-c24f-4ea8-8cd5-9a6fb6ba8d41
+
+
+
+
 ⚙️ Tech Stack
 
 Frontend: Next.js, React, TypeScript, TailwindCSS
